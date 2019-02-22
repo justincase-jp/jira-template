@@ -8,3 +8,8 @@ Our ticket template for developers communication.
 https://raw.githubusercontent.com/justincase-jp/jira-template/master/template.en.ja.json
 
 ![Load JSON from URL](load-json-from-url.png)
+
+# Original template
+Copyright 2017 Redbrick Technologies, Inc.
+Released under the MIT license
+https://github.com/rdbrck/jira-template-injector/blob/master/LICENSE
