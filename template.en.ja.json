@@ -1,0 +1,89 @@
+{
+    "options": {
+        "domains": [
+            "justincasejp"
+        ],
+        "inputIDs": [],
+        "limit": []
+    },
+    "templates": [
+        {
+            "issuetype-field": "",
+            "name": "DEFAULT TEMPLATE",
+            "projects-field": "",
+            "text": ""
+        },
+        {
+            "issuetype-field": "Bug",
+            "name": "BUG TEMPLATE",
+            "projects-field": "",
+            "text": "*Steps to reproduce*\n...\n\n*Expected result*\n...\n\n*Actual result*\n...\n\n*External documents or reports*\n...\n\n*Workaround*\n..."
+        },
+        {
+            "issuetype-field": "Story",
+            "name": "STORY TEMPLATE",
+            "projects-field": "",
+            "text": "*Story*\nAs a <TI>type of user/persona</TI>, I want <TI>to perform some task</TI>, so that I can <TI>achieve some goal/benefit/value</TI>.\n\n*Details*\n<TI>Enter any details, clarifications, answers to questions, or points about implementation here.</TI>\n\n*Additional Information*\n<TI>Enter any background or references such as Stack Overflow, MSDN, blogs, etc. that may help with developing the feature.</TI>\n\n*Acceptance Criteria*\n<TI>Enter the conditions of satisfaction here. That is, the conditions that will satisfy the user/persona that the goal/benefit/value has been achieved.</TI>"
+        },
+        {
+            "issuetype-field": "Task",
+            "name": "TASK TEMPLATE",
+            "projects-field": "",
+            "text": "*Description*\n...\n\n*Details*\n...\n\n*Acceptance Criteria*\n...\n"
+        },
+        {
+            "issuetype-field": "Sub-task",
+            "name": "SUB TASK TEMPLATE",
+            "projects-field": "",
+            "text": ""
+        },
+        {
+            "issuetype-field": "New Feature",
+            "name": "NEW FEATURE TEMPLATE",
+            "projects-field": "",
+            "text": "*Summary*\n<TI>Enter a summary of the New Feature here.</TI>\n\n*Details*\n<TI>Enter any details, clarifications, answers to questions, or points about implementation here.</TI>\n\n*Additional Information*\n<TI>Enter any background or references such as Stack Overflow, MSDN, blogs, etc. that may help with developing the feature.</TI>"
+        },
+        {
+            "issuetype-field": "Improvement",
+            "name": "IMPROVEMENT TEMPLATE",
+            "projects-field": "",
+            "text": "*Summary*\n<TI>Enter a summary of the Improvement here.</TI>\n\n*Details*\n<TI>Enter any details, clarifications, answers to questions, or points about implementation here.</TI>\n\n*Additional Information*\n<TI>Enter any background or references such as Stack Overflow, MSDN, blogs, etc. that may help with developing the feature.</TI>"
+        },
+        {
+            "issuetype-field": "Epic",
+            "name": "EPIC TEMPLATE",
+            "projects-field": "",
+            "text": "*Epic*\nAs a <TI>type of user/persona</TI>, I want <TI>to perform some task</TI>, so that I can <TI>achieve some goal/benefit/value</TI>.\n\n*Details*\n<TI>Enter any details, clarifications, answers to questions, and points about implementation here.</TI>"
+        },
+        {
+            "issuetype-field": "バグ",
+            "name": "BUG TEMPLATE",
+            "projects-field": "",
+            "text": "*Summary*\n<TI>Enter summary of the problem here.</TI>\n\n*Steps to Reproduce*\n<TI>Enter detailed steps to reproduce here. More detail is better.</TI>\n\n*Expected Behaviour*\n<TI>Enter what should happen here.</TI>\n\n*Additional Details*\n<TI>Enter any other details such as examples, links to requirements, etc. Any criteria that might help with fixing the problem. Attach screenshots if possible. More detail is better.</TI>\n\n*Workaround*\n<TI>If there is a way to work around the problem, place that information here.</TI>"
+        },
+        {
+            "issuetype-field": "ストーリー",
+            "name": "STORY TEMPLATE",
+            "projects-field": "",
+            "text": "*Story*\nAs a <TI>type of user/persona</TI>, I want <TI>to perform some task</TI>, so that I can <TI>achieve some goal/benefit/value</TI>.\n\n*Details*\n<TI>Enter any details, clarifications, answers to questions, or points about implementation here.</TI>\n\n*Additional Information*\n<TI>Enter any background or references such as Stack Overflow, MSDN, blogs, etc. that may help with developing the feature.</TI>\n\n*Acceptance Criteria*\n<TI>Enter the conditions of satisfaction here. That is, the conditions that will satisfy the user/persona that the goal/benefit/value has been achieved.</TI>"
+        },
+        {
+            "issuetype-field": "タスク",
+            "name": "TASK TEMPLATE",
+            "projects-field": "",
+            "text": ""
+        },
+        {
+            "issuetype-field": "サブタスク",
+            "name": "SUB TASK TEMPLATE",
+            "projects-field": "",
+            "text": ""
+        },
+        {
+            "issuetype-field": "エピック",
+            "name": "EPIC TEMPLATE",
+            "projects-field": "",
+            "text": "*Epic*\nAs a <TI>type of user/persona</TI>, I want <TI>to perform some task</TI>, so that I can <TI>achieve some goal/benefit/value</TI>.\n\n*Details*\n<TI>Enter any details, clarifications, answers to questions, and points about implementation here.</TI>"
+        }
+    ]
+}
