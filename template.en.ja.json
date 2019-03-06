@@ -71,7 +71,7 @@
             "issuetype-field": "タスク",
             "name": "TASK TEMPLATE",
             "projects-field": "",
-            "text": ""
+            "text": "*Description*\n...\n\n*Details*\n...\n\n*Acceptance Criteria*\n...\n"
         },
         {
             "issuetype-field": "サブタスク",
