@@ -70,6 +70,12 @@
         {
             "issuetype-field": "タスク",
             "name": "TASK TEMPLATE",
+            "projects-field": "Design (DES)",
+            "text": "h3. 解決すべき課題\n- <TI>やることではなく、どういう問題を解決したいかを書いてください。</TI>\n\nh3. 経緯\n- <TI>どういう経緯で話が出てきたかを書いてください。経緯を聞いてみたらそもそも課題が違った、ということを防ぎます。</TI>\n\nh3. やりたいこと\n- <TI>解決策として何をやりたいかを書いてください。</TI>\n\nh3. 締切\n- <TI>わからない場合でも仮で書いてください。</TI>\n\nh3. イメージ\n- <TI>手書きや他のアプリのキャプチャがあれば貼ってください。会議で書いたホワイトボードなどの写真もあれば貼ってください。</TI>\n\nh3. 参考リスト/関係する人\n- <TI>関連するURL/Issue/人物などがあれば書いておいてください。</TI>\n"
+        },
+        {
+            "issuetype-field": "タスク",
+            "name": "TASK TEMPLATE",
             "projects-field": "",
             "text": "*Description*\n...\n\n*Details*\n...\n\n*Acceptance Criteria*\n...\n"
         },
