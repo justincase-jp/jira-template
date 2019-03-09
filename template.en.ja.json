@@ -70,8 +70,14 @@
         {
             "issuetype-field": "タスク",
             "name": "TASK TEMPLATE",
+            "projects-field": "Design (DES)",
+            "text": "h3. Task to solve / 解決すべき課題\n- <TI>Please describe what issue we would like to solve, not what to do. / やることではなく、どういう問題を解決したいかを書いてください。</TI>\n\nh3. Background / 経緯\n- <TI>Please describe the background to the task.  We would like to understand what the actual issues are based on its background. / どういう経緯で話が出てきたかを書いてください。経緯を聞いてみたらそもそも課題が違った、ということを防ぎます。</TI>\n\nh3. What to want to do / やりたいこと\n- <TI>Please describe what we want to do as a solution. / 解決策として何をやりたいかを書いてください。</TI>\n\nh3. Due date / 締切\n- <TI>We need the due date even if it's unknown right now.  In such a case, please write the temporary due date. / わからない場合でも仮で書いてください。</TI>\n\nh3. Images / イメージ\n- <TI>Please attach any reference images e.g. hand drawing, screenshots, whiteboard capture, and so on. / 手書きや他のアプリのキャプチャがあれば貼ってください。会議で書いたホワイトボードなどの写真もあれば貼ってください。</TI>\n\nh3. References / 参考リスト/関係する人\n- <TI>Please list any references and referrers e.g. corresponding URL, issues, people to be asked, etc. / 関連するURL/Issue/人物などがあれば書いておいてください。</TI>\n"
+        },
+        {
+            "issuetype-field": "タスク",
+            "name": "TASK TEMPLATE",
             "projects-field": "",
-            "text": ""
+            "text": "*Description*\n...\n\n*Details*\n...\n\n*Acceptance Criteria*\n...\n"
         },
         {
             "issuetype-field": "サブタスク",
